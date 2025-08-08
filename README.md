@@ -26,14 +26,14 @@ queries, pagination, and more.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used
 
 - Java 21
 - Spring Boot
 - Spring Data JPA
-- H2 / MySQL Database
+- MySQL Database
 - Maven
-- IntelliJ IDEA / VS Code
+- IntelliJ IDEA 
 
 ---
 
