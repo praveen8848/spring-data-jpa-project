@@ -1,7 +1,7 @@
 # Spring Data JPA Prject 🚀
 
 This project is a comprehensive implementation of **Spring Data JPA**, 
-demonstrating the most essential and advanced JPA features including entity relationships,
+demonstrating the most essential and advanced JPA features including entity relationships (including one to one, one to many and many to many),
 queries, pagination, and more.
 
 ---
